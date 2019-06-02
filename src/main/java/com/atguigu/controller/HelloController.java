@@ -12,4 +12,8 @@ public class HelloController {
     public String hello(){
        return "Hello World!";
     }
+
+    public void helloGit(){
+        System.out.printf("hello Git");
+    }
 }
