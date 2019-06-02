@@ -14,6 +14,6 @@ public class HelloController {
     }
 
     public void helloGit(){
-        System.out.printf("hello Git");
+        System.out.printf("hello Git!!!");
     }
 }
